@@ -2,12 +2,14 @@
 ***
 ## 关于我:point_down:
 <ul>
-  <li>浙江在杭州在读大一在校生,目前热衷于Web开发,欢迎各位提出建议，热烈交流</li>
+  <li>浙江杭州在读大一在校生,目前热衷于Web开发</li>
 <ul>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- ⚡ ## 我的技术栈
+  <img alt="npm" src="https://img.shields.io/npm/v/npm">
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
