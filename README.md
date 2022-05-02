@@ -5,5 +5,5 @@
 ***
 # 技术栈:red_car:
 <ul>
-  <li>![Python](/stack/pycharm.svg "Python")</li>
+  <li>![](./stack/pycharm.svg)</li>
 </ul>
