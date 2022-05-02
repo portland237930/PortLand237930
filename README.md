@@ -5,5 +5,5 @@
 ***
 # 技术栈:red_car:
 <ul>
-  <li>![](./stack/pycharm.svg)</li>
+  <li>你好</li>
 </ul>
