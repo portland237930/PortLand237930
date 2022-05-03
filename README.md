@@ -15,8 +15,8 @@
   ![](https://img.shields.io/node/vue?style=flat-square)
   ![Vue](https://img.shields.io/node/v/n?color=%238fd435&label=Vue2%2F3&logo=V&logoColor=%238fd435&style=flat-square)
 - 🌱 I’m currently learning ...
-- ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Vue](https://img.shields.io/badge/-Vue-E10098?style=plastic&logo=Graphql)
+- ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 ***
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PortLand237930)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PortLand237930)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PortLand237930&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ***
