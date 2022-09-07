@@ -1,6 +1,7 @@
 # 这是小羊爱吃草的主页 :sheep:
 ***
 ## 关于我:point_down:
+目前大二😋
 - ⚡ Technologies  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
