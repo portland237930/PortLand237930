@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning Vue3.js  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ I get to be able to get and solve any problem in my study
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use vscode learning any language
   
 
 <br/>  
