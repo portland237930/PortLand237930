@@ -2,7 +2,7 @@
 ### <div>I'm PortLand, a working college students in HangZhou🚀</div>  
   
 
-- 🔭 I’m currently preparing for a major upgrade  
+- 🔭 I’m currently studying in university.
   
 
 - 🌱 I’m currently learning Vue3.js  
