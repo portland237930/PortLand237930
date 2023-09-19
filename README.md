@@ -1,7 +1,7 @@
 # 这是波特兰表行的主页 :sheep:
 ### <div>I'm PortLand, a working college students in Wenzhou🚀</div>  
   This is my Gitee:https://gitee.com/zjp_giteeHome.
-
+  I always manage my code here.
 - 🔭 I’m currently studying in university.
   
 
